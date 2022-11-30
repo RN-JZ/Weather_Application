@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   uuid = "7290D83A-ECD9-4BFD-A68A-C13DFCC536FF"
+   type = "1"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "37C5992E-2549-4E8A-952D-EE5F3020BE0E"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "WeatherApp/Manager/WeatherManager.swift"
+            startingColumnNumber = "24"
+            endingColumnNumber = "24"
+            startingLineNumber = "14"
+            endingLineNumber = "14"
+            landmarkName = "getWeatherAPI(lantitude:longitude:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>
